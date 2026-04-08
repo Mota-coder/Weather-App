@@ -82,18 +82,13 @@ weather-app/
 2. Replace the key in `script.js`:
 
 ```javascript
-const API_KEY = "your_api_key_here";
+const API_KEY = "7e2a3b4d51463080dbae144f319502bd";
 ```
 
  Note: API key activation may take a few minutes.
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here for better presentation)*
-
----
 
 ##  Future Enhancements
 
